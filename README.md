@@ -1,12 +1,5 @@
 # SmartHomePLC
 Explore a comprehensive smart home visualization with diverse functionalities like irrigation, temperature regulation, and lighting automation programmed in CODESYS.
-# Real-Time Systems Basics and Algorithmics
-## Laboratory Report: Intelligent Building Project with PLC Control
-
-### Team Members:
-- Radosław Szewczyk
-- Karol Łada
-- Marek Luchowski
 
 ### Project Overview
 This project aims to demonstrate control of an intelligent building using the Eaton EC4P-222 PLC controller. The device features 12 digital inputs, 4 analog inputs, 8 digital outputs, and 1 analog output.
