@@ -29,6 +29,3 @@ From the control panel, users can manage the following building functions:
 ### Future Enhancements
 This project serves as a foundation for expanding intelligent building automation capabilities. Future developments could include:
 - Implementing user-defined operation modes (e.g., day mode, night mode, vacation mode) to optimize energy usage and enhance user convenience.
-
-### Conclusion
-This project successfully demonstrates practical applications of PLC-based building automation. The implemented features illustrate the potential for scalable and user-friendly automation solutions in residential environments.
